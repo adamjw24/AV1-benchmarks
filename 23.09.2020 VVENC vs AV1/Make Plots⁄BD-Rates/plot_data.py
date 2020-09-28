@@ -84,5 +84,5 @@ if __name__ == "__main__":
         plt.margins(0)
         plt.subplots_adjust(left=0.045, right=0.99, top=0.965, bottom=0.065)
         plt.savefig("{}.png".format(metric))
-        plt.show()
+        #plt.show()
 

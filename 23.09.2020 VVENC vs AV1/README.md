@@ -21,7 +21,7 @@ This benchmark only covers the current state of VVenC in comparison to AV1 in 'n
 ## Testing Material:
 
 park_joy 500 frames sequence from [Xiph Media](https://media.xiph.org/video/derf/)
-![](./23.09.2020%20VVCENC%20vs%20AV1/Source%20Screenshots/Frame%20100.png)
+![](./Source%20Screenshots/Frame%20100.png)
 ## VVC presets comparison:
 
 ## VMAF:
@@ -150,18 +150,18 @@ Time Diff:        +338.1 %
 ## MS-SSIM:
 ![comparisson_mssim]
 
-[vvc_vmaf]: 23.09.2020%20VVCENC%20vs%20AV1/Results/VVC/VMAF.png
-[vvc_psnr]: 23.09.2020%20VVCENC%20vs%20AV1/Results/VVC/PSNR.png
-[vvc_ssim]: 23.09.2020%20VVCENC%20vs%20AV1/Results/VVC/SSIM.png
-[vvc_mssim]: 23.09.2020%20VVCENC%20vs%20AV1/Results/VVC/MS-SSIM.png
+[vvc_vmaf]: Results/VVC/VMAF.png
+[vvc_psnr]: Results/VVC/PSNR.png
+[vvc_ssim]: Results/VVC/SSIM.png
+[vvc_mssim]: Results/VVC/MS-SSIM.png
 
-[av1_vmaf]: 23.09.2020%20VVCENC%20vs%20AV1/Results/AV1/VMAF.png
-[av1_psnr]: 23.09.2020%20VVCENC%20vs%20AV1/Results/AV1/PSNR.png
-[av1_ssim]: 23.09.2020%20VVCENC%20vs%20AV1/Results/AV1/SSIM.png
-[av1_mssim]: 23.09.2020%20VVCENC%20vs%20AV1/Results/AV1/MS-SSIM.png
+[av1_vmaf]: Results/AOM/VMAF.png
+[av1_psnr]: Results/AOM/PSNR.png
+[av1_ssim]: Results/AOM/SSIM.png
+[av1_mssim]: Results/AOM/MS-SSIM.png
 
-[comparisson_vmaf]: 23.09.2020%20VVCENC%20vs%20AV1/Results/VVC_vs_AOM/VMAF.png
-[comparisson_psnr]: 23.09.2020%20VVCENC%20vs%20AV1/Results/VVC_vs_AOM/PSNR.png
-[comparisson_ssim]: 23.09.2020%20VVCENC%20vs%20AV1/Results/VVC_vs_AOM/SSIM.png
-[comparisson_mssim]: 23.09.2020%20VVCENC%20vs%20AV1/Results/VVC_vs_AOM/MS-SSIM.png
+[comparisson_vmaf]: Results/VVC_vs_AOM/VMAF.png
+[comparisson_psnr]: Results/VVC_vs_AOM/PSNR.png
+[comparisson_ssim]: Results/VVC_vs_AOM/SSIM.png
+[comparisson_mssim]: Results/VVC_vs_AOM/MS-SSIM.png
 
