@@ -1,0 +1,54 @@
+AOM 6 -> AOM 5 
+
+Vmaf    BD rate: -0.81 %
+PSNR    BD rate: -1.224 %
+SSIM    BD rate: -0.99 %
+MS-SSIM BD rate: -1.382 %
+Time Diff:        +25.9 %
+
+
+AOM 5 -> AOM 4 
+
+Vmaf    BD rate: -11.844 %
+PSNR    BD rate: -8.136 %
+SSIM    BD rate: -5.645 %
+MS-SSIM BD rate: -7.289 %
+Time Diff:        +136.6 %
+
+
+AOM 4 -> AOM 3 
+
+Vmaf    BD rate: -1.423 %
+PSNR    BD rate: -2.826 %
+SSIM    BD rate: -2.253 %
+MS-SSIM BD rate: -2.971 %
+Time Diff:        +69.0 %
+
+
+AOM 3 -> AOM 2 
+
+Vmaf    BD rate: -0.887 %
+PSNR    BD rate: -3.979 %
+SSIM    BD rate: -2.676 %
+MS-SSIM BD rate: -2.89 %
+Time Diff:        +167.4 %
+
+
+AOM 2 -> AOM 1 
+
+Vmaf    BD rate: -2.128 %
+PSNR    BD rate: -1.819 %
+SSIM    BD rate: -1.391 %
+MS-SSIM BD rate: -1.349 %
+Time Diff:        +63.8 %
+
+
+AOM 1 -> AOM 0 
+
+Vmaf    BD rate: -2.222 %
+PSNR    BD rate: -2.013 %
+SSIM    BD rate: -1.972 %
+MS-SSIM BD rate: -1.948 %
+Time Diff:        +338.1 %
+
+
